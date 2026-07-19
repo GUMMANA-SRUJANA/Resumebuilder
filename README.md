@@ -1,5 +1,4 @@
 # Resumebuilder
-
 ## About
 An AI-powered Resume Builder that helps users create professional resumes quickly and efficiently.
 
